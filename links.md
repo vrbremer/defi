@@ -1,5 +1,9 @@
-# awesome-foundations-of-DeFi
-An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
+# DeFi
+A list of resources regarding DeFi
+
+## Beginning
+
+- [An Epic Beginners Guide to Uniswap](https://blokt.com/guides/uniswap)
 
 ## Papers
 
@@ -81,3 +85,6 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [Jun-You Liu](https://twitter.com/orbxball)
 - [Ariah Klages-Mundt](https://twitter.com/aklamun)
 - [Dominik Harz](https://twitter.com/dominik0_)
+
+
+Based on: https://github.com/Mikerah/awesome-foundations-of-DeFi
