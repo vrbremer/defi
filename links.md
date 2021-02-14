@@ -4,6 +4,7 @@ A list of resources regarding DeFi
 ## Beginning
 
 - [An Epic Beginners Guide to Uniswap](https://blokt.com/guides/uniswap)
+- (https://medium.com/@rika.sukenik6/rikas-crypto-reading-decentralized-finance-defi-bcfd22bfec89)
 
 ## Papers
 
